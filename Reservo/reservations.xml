@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reservations>
+  <Reservation id="1" tableId="1" numberOfPeople="2" nameUnder="Karthikk" from="1000" />
+  <Reservation id="2" tableId="2" numberOfPeople="2" nameUnder="Katie" from="1000" />
+  <Reservation id="3" tableId="3" numberOfPeople="2" nameUnder="Manny" from="1000" />
+  <Reservation id="4" tableId="9" numberOfPeople="5" nameUnder="Golum" from="1200" />
+  <Reservation id="5" tableId="1" numberOfPeople="2" nameUnder="Goumm" from="1700" />
+  <Reservation id="6" tableId="9" numberOfPeople="5" nameUnder="rituuuku" from="1930" />
+  <Reservation id="7" tableId="3" numberOfPeople="4" nameUnder="sdfsd" from="1230" />
+</Reservations>

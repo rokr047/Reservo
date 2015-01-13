@@ -1,0 +1,12 @@
+<Tables>
+    <Table Id="1" MaxOccupancy="2" />
+	<Table Id="2" MaxOccupancy="2" />
+	<Table Id="3" MaxOccupancy="4" />
+	<Table Id="4" MaxOccupancy="4" />
+	<Table Id="5" MaxOccupancy="4" />
+	<Table Id="6" MaxOccupancy="4" />
+	<Table Id="7" MaxOccupancy="4" />
+	<Table Id="8" MaxOccupancy="4" />
+	<Table Id="9" MaxOccupancy="6" />
+	<Table Id="10" MaxOccupancy="6" />
+</Tables>
